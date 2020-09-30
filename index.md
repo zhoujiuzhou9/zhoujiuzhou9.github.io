@@ -4,12 +4,7 @@ You can use the [editor on GitHub](https://github.com/zhoujiuzhou9/zhoujiuzhou9.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-## 職務経歴書概要説明
+### 職務経歴書概要説明
 
 + 開発経験 ： 7年間
 
@@ -39,6 +34,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
   +  コミュニケーションを密に取り、関係値を構築していきながら信頼関係を築くことができます。 そのため、お客様からは可能性レベルでも相談いただくことが多く、事前に把握した情報をもって、 迅速に提案することができております。
   +  チームリーダー勤めてた経験もあり、指導する側として、他のメンバーの指揮をする、それに、様々な角度からプログラミングを見直し、高機能プログラミングができるよう技術を考えております。
+
+```markdown
 
 ```
 
