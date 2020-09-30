@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to 周 九洲_AndreChow
 
 You can use the [editor on GitHub](https://github.com/zhoujiuzhou9/zhoujiuzhou9.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -36,7 +36,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   +  チームリーダー勤めてた経験もあり、指導する側として、他のメンバーの指揮をする、それに、様々な角度からプログラミングを見直し、高機能プログラミングができるよう技術を考えております。
 
 ```markdown
-
+### Andre
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
